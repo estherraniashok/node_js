@@ -1,12 +1,12 @@
 {
     "author": "Brendan Dayley",
-    "name": "estherraniashok",
+    "name": "esther6379",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censortext",
     "repository": {
 "type": "git",
-"url": "https://github.com/estherraniashok/node_js_module"
+"url": "https://github.com/estherraniashok/node_js/blob/main/package.json"
 },
 "keywords": [
 "censor",
